@@ -1,0 +1,5 @@
+ID;Name;Description;ValidityPeriod;type_ID
+ad87a4f5-7e00-4399-a168-aba50c7e525b;Colombo Zone;Colombo New Main Zone;2024-02-22T16:33:26+0530;17b124f6-26da-40b4-97bf-8be10804cb0f
+abe5a296-cbfe-4ffe-842f-c80eaba8a0f4;Kandy Zone;Kandy Main Zone;2024-02-23T16:33:27+0530;3031bcb2-8605-4aca-8087-4c6aa8d67cc4
+b55c7e21-5df6-42e9-9087-7a6704c97bcb;Galle Zone;Galle Town Main Zone;2024-02-20T23:24:25+0530;17b124f6-26da-40b4-97bf-8be10804cb0f
+66972052-a9f1-48e0-a5c9-3c714f1a67fc;Colombo Zone 2;Colombo Old zone;2024-02-20T23:25:14+0530;3031bcb2-8605-4aca-8087-4c6aa8d67cc4
